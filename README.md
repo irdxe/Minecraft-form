@@ -29,7 +29,7 @@ This project was built to practice form elements and semantic HTML as part of th
    Open `index.html` in your browser.
 
 ## Screenshot 
- ![Home page](https://github.com/irdxe/Minecraft-form/blob/main/sreenshot-minecraft-form-home.png)
+ ![Home page](sreenshot-minecraft-form-home.png)
 
 
 ## Credits
