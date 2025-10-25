@@ -28,6 +28,10 @@ This project was built to practice form elements and semantic HTML as part of th
    cd REPO-NAME
    Open `index.html` in your browser.
 
+## Screenshot 
+ ![Home page](screenshot-minecraft-form.png)
+
+
 ## Credits
 
 Based on freeCodeCamp exercises https://www.freecodecamp.org/
