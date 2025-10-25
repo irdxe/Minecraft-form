@@ -24,12 +24,11 @@ This project was built to practice form elements and semantic HTML as part of th
 
 1. Clone:
    git clone https://github.com/irdxe/Minecraft-form.git
-3. Open:
-   cd REPO-NAME
+2. Open:
    Open `index.html` in your browser.
 
 ## Screenshot 
- ![Home page](sreenshot-minecraft-form-home.png)
+ ![Home page](screenshot-minecraft-form-home.png)
 
 
 ## Credits
